@@ -1,5 +1,5 @@
 // Import the element locators for the "Forgot Password" page from the JSON file
-import forgotElementLocators from '../../../pageElements/ForgotPasswordElements.json';
+import forgotElementLocators from '../pageElements/ForgotPasswordElements.json';
 
 // Define a class for handling interactions with the "Forgot Password" page
 class ForgotPageElements {
